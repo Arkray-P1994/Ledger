@@ -1,0 +1,12 @@
+{
+  "name": "your-project/credit-debit",
+  "description": "Credit Debit API",
+  "autoload": {
+    "psr-4": {
+      "Src\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.4"
+  }
+}
